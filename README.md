@@ -33,4 +33,4 @@ Enables regional performance comparison
 
 
 
-[github]
+![dashboard](https://github.com/create20s/Sales_dashboard/blob/main/Project_dashboard.png)
