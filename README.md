@@ -30,3 +30,7 @@ Helps measure customer base size
 >
 > Geographic visualization of sales by state
 Enables regional performance comparison
+
+
+
+[github]
